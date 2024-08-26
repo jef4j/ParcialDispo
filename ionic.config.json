@@ -1,0 +1,7 @@
+{
+  "name": "ParcialDispo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
